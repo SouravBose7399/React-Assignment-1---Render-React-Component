@@ -3,7 +3,11 @@ import '../styles/App.css';
 
 const App = () => {
   return (
-    <div id="main"></div>
+    <p className = "Paragraph" >
+      
+    I am learning React. My life is getting better.
+    </p>
+    
   )
 }
 
